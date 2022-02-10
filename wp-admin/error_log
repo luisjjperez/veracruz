@@ -1,0 +1,1 @@
+[07-Feb-2022 17:53:32 UTC] PHP Warning:  dir(/home/veracruzdosherma/public_html/new/wp-content/upgrade/elementor.3.5.5/elementor/includes/settings/): failed to open dir: No such file or directory in /home/veracruzdosherma/public_html/new/wp-admin/includes/class-wp-filesystem-direct.php on line 613

@@ -1,0 +1,51 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Skins for Social Media Feather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-12 19:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1"
+
+#: skins-for-social-media-feather.php:54
+msgid "Color Icons on White Circles"
+msgstr ""
+
+#: skins-for-social-media-feather.php:33
+msgid "Color Icons on White Squares"
+msgstr ""
+
+#. Name of the plugin
+msgid "Skins for Social Media Feather"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Social Media Feather is a popular social media plugin, but its styling "
+"options are limited to the available skins. This plugin provides six new "
+"skins created with the help of the Socicon generator."
+msgstr ""
+
+#: skins-for-social-media-feather.php:61
+msgid "White Icons on Black Circles"
+msgstr ""
+
+#: skins-for-social-media-feather.php:40
+msgid "White Icons on Black Squares"
+msgstr ""
+
+#: skins-for-social-media-feather.php:68
+msgid "White Icons on Color Circles"
+msgstr ""
+
+#: skins-for-social-media-feather.php:47
+msgid "White Icons on Color Squares"
+msgstr ""

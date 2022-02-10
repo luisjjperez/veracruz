@@ -1,0 +1,185 @@
+# Translation of Plugins - Accordion - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Accordion - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-13 08:08:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Accordion - Development (trunk)\n"
+
+#: accordions.php:165
+msgid "Buy Premium!"
+msgstr "¡Comprar Premium!"
+
+#: includes/functions.php:558
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/class-post-types.php:23 includes/class-post-types.php:24
+#: includes/class-widget-accordions.php:10
+#: includes/class-widget-accordions.php:26
+msgid "Accordions"
+msgstr "Accordions"
+
+#: includes/class-post-meta-accordions-hook.php:389
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/class-post-meta-accordions-hook.php:350
+#: includes/class-post-meta-accordions-hook.php:447
+msgid "Collapsible"
+msgstr "Plegable"
+
+#: includes/class-post-meta-accordions-hook.php:356
+#: includes/class-post-meta-accordions-hook.php:453
+#: includes/class-post-meta-accordions-hook.php:1124
+#: includes/class-post-meta-accordions-hook.php:1138
+msgid "True"
+msgstr "True"
+
+#: includes/class-post-meta-accordions-hook.php:399
+#: includes/class-post-meta-accordions-hook.php:463
+msgid "Activate event"
+msgstr "Activar evento"
+
+#: includes/class-post-meta-accordions-hook.php:485
+#: includes/class-post-meta-accordions-hook.php:674
+#: includes/class-post-meta-accordions-hook.php:989
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/class-post-meta-accordions-hook.php:486
+#: includes/class-post-meta-accordions-hook.php:675
+#: includes/class-post-meta-accordions-hook.php:990
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/class-settings-tabs.php:494 includes/class-settings-tabs.php:578
+msgid "Clear"
+msgstr "Borrar"
+
+#: includes/class-settings-tabs.php:679 includes/class-settings-tabs.php:950
+msgid "Add"
+msgstr "Añadir"
+
+#. Author URI of the plugin
+msgid "http://pickplugins.com"
+msgstr "http://pickplugins.com"
+
+#: includes/class-post-meta-accordions-hook.php:991
+msgid "Center"
+msgstr "Centrar"
+
+#: includes/class-post-meta-accordions-hook.php:390
+msgid "Fill"
+msgstr "Rellenar"
+
+#: includes/class-post-meta-accordions-hook.php:357
+#: includes/class-post-meta-accordions-hook.php:454
+#: includes/class-post-meta-accordions-hook.php:1125
+#: includes/class-post-meta-accordions-hook.php:1139
+msgid "False"
+msgstr "False"
+
+#: includes/class-post-meta-accordions-hook.php:1098
+msgid "Header"
+msgstr "Cabecera"
+
+#: includes/class-post-meta-accordions-hook.php:405
+#: includes/class-post-meta-accordions-hook.php:469
+msgid "Click"
+msgstr "Al hacer clic"
+
+#: includes/class-post-meta-accordions-hook.php:406
+#: includes/class-post-meta-accordions-hook.php:470
+msgid "Mouseover"
+msgstr "Al poner el cursor encima"
+
+#. Author of the plugin
+msgid "PickPlugins"
+msgstr "PickPlugins"
+
+#: includes/class-post-meta-accordions-hook.php:1298
+#: includes/class-settings-hook.php:250
+msgid "Submit reviews"
+msgstr "Enviar reseñas"
+
+#. Description of the plugin
+msgid "Fully responsive and mobile ready accordion grid for wordpress."
+msgstr "Cuadrícula de acordeones totalmente adaptable y preparada para móviles para WordPress."
+
+#. Plugin URI of the plugin
+msgid "https://www.pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress/?ref=dashboard"
+msgstr "https://www.pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress/?ref=dashboard"
+
+#: includes/class-post-meta-accordions-hook.php:1253
+#: includes/class-settings-hook.php:205
+msgid "Documentation"
+msgstr "Documentación"
+
+#: includes/class-post-meta-accordions-hook.php:343
+msgid "Accordion options"
+msgstr "Opciones del acordeón"
+
+#: includes/class-post-meta-accordions-hook.php:439
+msgid "Tabs options"
+msgstr "Opciones de las pestañas"
+
+#: includes/class-post-meta-accordions-hook.php:983
+msgid "Text align"
+msgstr "Alineación del texto"
+
+#: includes/class-post-meta-accordions-hook.php:613
+#: includes/class-post-meta-accordions-hook.php:713
+#: includes/class-post-meta-accordions-hook.php:890
+#: includes/class-post-meta-accordions-hook.php:969
+msgid "Background color"
+msgstr "Color del fondo"
+
+#: includes/class-post-meta-accordions-hook.php:1003
+msgid "Background image"
+msgstr "Imagen de fondo"
+
+#: includes/class-post-meta-accordions-hook.php:727
+msgid "Active background color"
+msgstr "Color de fondo activo"
+
+#: includes/class-post-meta-accordions-hook.php:1099
+msgid "Accordion header."
+msgstr "Cabecera del acordeón."
+
+#: includes/class-post-meta-accordions-hook.php:60
+msgid "Accordion shortcode"
+msgstr "Shortcode del acordeón"
+
+#: includes/class-post-meta-accordions-hook.php:1212
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: includes/class-post-meta-accordions-hook.php:137
+msgid "Tabs shortcodes"
+msgstr "Shortcodes de pestañas"
+
+#: includes/class-settings-hook.php:994
+msgid "Accordion content font size"
+msgstr "Tamaño de la fuente del contenido del acordeón"
+
+#: includes/class-settings-hook.php:952
+msgid "Accordion header font size"
+msgstr "Tamaño de la fuente de la cabecera del acordeón"
+
+#: includes/class-settings-hook.php:1022
+msgid "Accordion container background color"
+msgstr "Color del fondo del contenido del acordeón"
+
+#: includes/class-settings-hook.php:987
+msgid "Accordion content text color"
+msgstr "Color de la fuente del contenido del acordeón"
+
+#: includes/class-settings-hook.php:940
+msgid "Accordion header text color"
+msgstr "Color de la fuente de la cabecera del acordeón"
